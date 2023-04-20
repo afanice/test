@@ -7,7 +7,7 @@ while a != 0 and b != 0:
         print(a)
     else:
         b = b % a
-        print(b)
+        print(b) 
 print(a + b)
 '''
 '''
